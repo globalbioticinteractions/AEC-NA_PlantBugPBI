@@ -1,5 +1,7 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "_comment": "This Thematic Collection Network (TCN) dataset is the product of the Tri-Trophic Thematic Collection Network Collaborative Research project: Plants, Herbivores, and Parasitoids: A Model System for the study of Tri-Trophic Associations. It consists of the Hemipteran records recorded in the Arthropod Easy Capture database at the American Museum of Natural History. This project was funded by the National Science Foundation EF#1115081, EF#1115103, EF#1115080, EF#1115144, EF#1115191, EF#1115104, EF#1115115 (2011-2016).",
+  "citation": "Tri-Trophic Thematic Collection Network, 2014 (and updates). Version: 08 Mar 2016. http://tcn.amnh.org/. National Science Foundation grant(s) EF#1115081, EF#1115103, EF#1115080, EF#1115144, EF#1115191, EF#1115104, EF#1115115.",
+  "format": "dwca",
+  "url": "AEC-DBCNet_DwC-A20160308.zip",
   "deprecated": false
 }
