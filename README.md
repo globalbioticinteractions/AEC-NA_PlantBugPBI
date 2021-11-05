@@ -7,7 +7,7 @@ This Thematic Collection Network (TCN) dataset is the product of the Tri-Trophic
 
 For more information see [http://tcn.amnh.org](http://tcn.amnh.org)
 
-**Citation:** Tri-Trophic Thematic Collection Network, 2014 (and updates). Version: 08 Mar 2016. http://tcn.amnh.org/. National Science Foundation grant(s) EF#1115081, EF#1115103, [EF#1115080](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1115080), EF#1115144, EF#1115191, EF#1115104, EF#1115115. Project leads are Randall Schuh (Principal Investigator) and Christine  Johnson (Co-Principal Investigator) at the American Museum of Natural History 
+**Citation:** Tri-Trophic Thematic Collection Network, 2014 (and updates). Version: 08 Mar 2016. http://tcn.amnh.org/. National Science Foundation grant(s) EF#1115081, EF#1115103, [EF#1115080](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1115080), EF#1115144, EF#1115191, EF#1115104, EF#1115115. Project leads are Randall Schuh (Principal Investigator) and Christine  Johnson (Co-Principal Investigator) at the American Museum of Natural History.
 
 ABSTRACT
 
